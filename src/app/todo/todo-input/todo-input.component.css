@@ -1,0 +1,14 @@
+label {
+    font-size: larger;
+    margin-left: 40%;
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+}
+
+input {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+    background-color: aliceblue;
+    margin-left: 25%;
+    width: 50%;
+}
